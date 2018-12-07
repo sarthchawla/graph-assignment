@@ -3,7 +3,7 @@
 Get familiar with ADT graph, data structures to implement graphs and various graph algorithms.
 
 <p align="center">
-  <img src="screenshots/list_display.png" width="50%" title="Github Logo">
+  <img src="screenshots/list_display.png" title="list display">
 </p>
 Purpose
 
