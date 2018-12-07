@@ -4,19 +4,19 @@ Get familiar with ADT graph, data structures to implement graphs and various gra
 
 <p align="center">
   <img src="screenshots/list_display.png" title="list display">
-  <b>Adjacency List</b>
+  <b>Adjacency List</b><br><br>
   <img src="screenshots/options.png">
-  <b>options</b>
+  <b>options</b><br><br>
   <img src="screenshots/option1.png" >
-  <b>option1</b>
+  <b>option1</b><br><br>
   <img src="screenshots/option2.png" >
-  <b>option2</b>
+  <b>option2</b><br><br>
   <img src="screenshots/option3.png" >
-  <b>option3</b>
+  <b>option3</b><br><br>
   <img src="screenshots/option4.png" >
-  <b>option4</b>
+  <b>option4</b><br><br>
   <img src="screenshots/option5.png" >
-  <b>option5</b>
+  <b>option5</b><br><br>
   <img src="screenshots/option_minus1.png" >
   <b>option  -1</b>
 </p>
