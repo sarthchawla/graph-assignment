@@ -4,7 +4,7 @@ Get familiar with ADT graph, data structures to implement graphs and various gra
 
 <p align="center">
   <img src="screenshots/list_display.png" title="list display">
-  ```Adjancy List```
+  <b>Adjancy List</b>
 </p>
 Purpose
 
