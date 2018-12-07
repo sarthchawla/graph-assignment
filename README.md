@@ -24,13 +24,13 @@ Upon starting up, your program will take a file name as command line argument, a
     N user login names, one in each line; (You can assume that none of them exceeds 40 characters and there is no white space in the names.)
     Up to N*(N-1) lines of data in the format of "user1 user2 distance" (without the quotation marks), indicating a (direct) influence from user1 to user2. For example, "user1 user2 -1" means that user1's opinion negatively influences user2. You can safely make the assumption that there would not be more than one entry from user1 to user2. And if there is no entry from user1 to user2, it means that user2 is indifferent to user1's opinion.
 
-You should use some appropriate data structures to store all the information. Then, your program should be able to handle the following user queries:
-influence 	/* list the name of the user who can directly and positively influence the most number of the users */
-controversial 	/* list the name of the user who can directly influence the most number of the users, either positively or negatively */
-outreach user 	/* count the number of the users this given user can influence, whether directly or indirectly, positively or negatively.
-Don't count the same user more than once. */
-link user1 user2 	/* list the shortest positive influence link from user1 to user2. Show the names of all the users in this link.
+You should use some appropriate data structures to store all the information. Then, your program should be able to handle the following user queries:<br><br>
+influence 	<i> list the name of the user who can directly and positively influence the most number of the users </i><br><br>
+controversial 	<i> list the name of the user who can directly influence the most number of the users, either positively or negatively </i><br><br>
+outreach user 	<i> count the number of the users this given user can influence, whether directly or indirectly, positively or negatively.
+Don't count the same user more than once. </i><br><br>
+link user1 user2 	<i> list the shortest positive influence link from user1 to user2. Show the names of all the users in this link.
 You should treat the negative influence as no influence for this query.
-If there isn't such a link, display an appropriate message. */
-update user1 user2 distance 	/* update the influence distance from user1 to user2 with the new distance provided. You can safely assume that the distance is either 1, -1 or 0 */
-quit 	/* quit the system and write the updated data back to the original data file with the same format */
+If there isn't such a link, display an appropriate message. </i><br><br>
+update user1 user2 distance 	<i> update the influence distance from user1 to user2 with the new distance provided. You can safely assume that the distance is either 1, -1 or 0 </i><br><br>
+quit 	<i> quit the system and write the updated data back to the original data file with the same format </i>
