@@ -4,7 +4,21 @@ Get familiar with ADT graph, data structures to implement graphs and various gra
 
 <p align="center">
   <img src="screenshots/list_display.png" title="list display">
-  <b>Adjancy List</b>
+  <b>Adjacency List</b>
+  <img src="screenshots/options.png">
+  <b>options</b>
+  <img src="screenshots/option1.png" >
+  <b>option1</b>
+  <img src="screenshots/option2.png" >
+  <b>option2</b>
+  <img src="screenshots/option3.png" >
+  <b>option3</b>
+  <img src="screenshots/option4.png" >
+  <b>option4</b>
+  <img src="screenshots/option5.png" >
+  <b>option5</b>
+  <img src="screenshots/option_minus1.png" >
+  <b>option  -1</b>
 </p>
 Purpose
 
@@ -32,5 +46,5 @@ Don't count the same user more than once. </i><br><br>
 <b>link user1 user2 </b>	<i> list the shortest positive influence link from user1 to user2. Show the names of all the users in this link.
 You should treat the negative influence as no influence for this query.
 If there isn't such a link, display an appropriate message. </i><br><br>
-update user1 user2 distance </b>	<i> update the influence distance from user1 to user2 with the new distance provided. You can safely assume that the distance is either 1, -1 or 0 </i><br><br>
+<b>update user1 user2 distance </b>	<i> update the influence distance from user1 to user2 with the new distance provided. You can safely assume that the distance is either 1, -1 or 0 </i><br><br>
 <b>quit </b>	<i> quit the system and write the updated data back to the original data file with the same format </i>
