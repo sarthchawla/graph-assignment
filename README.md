@@ -1,10 +1,10 @@
-# graph-assignment
+# GRAPH-ASSIGNMENT
 
 Get familiar with ADT graph, data structures to implement graphs and various graph algorithms.
 <br>
 <p align="center">
     <b>for windows make exe file then launch it in cmd with command line argument<br><br>
-commands for launching the file in linux terminal<br><br>
+commands for launching the file in linux terminal<br>
 <i>g++ load.cpp<br>
 ./a.out <u>pex3.data</u></i><br>
 above underlined is a command line argument<br>
