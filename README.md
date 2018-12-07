@@ -2,6 +2,9 @@
 
 Get familiar with ADT graph, data structures to implement graphs and various graph algorithms.
 
+<p align="center">
+  <img src="screenshots/list_display.png" width="256" title="Github Logo">
+</p>
 Purpose
 
     Get familiar with ADT graph, data structures to implement graphs and various graph algorithms
