@@ -1,8 +1,14 @@
 # graph-assignment
 
 Get familiar with ADT graph, data structures to implement graphs and various graph algorithms.
-
+<br>
 <p align="center">
+    <b>for windows make exe file then launch it in cmd with command line argument<br>
+commands for launching the file in linux terminal<br>
+<i>g++ load.cpp
+./a.out <u>pex3.data</u></i>
+above underlined is a command line argument<br>
+that is the location of the input file</b>
   <img src="screenshots/list_display.png" title="list display">
   <b>Adjacency List</b><br><br>
   <img src="screenshots/options.png">
